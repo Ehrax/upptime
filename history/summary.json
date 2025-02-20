@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1273,
-    "timeDay": 1273,
+    "timeDay": 1573,
     "timeWeek": 1273,
     "timeMonth": 1273,
     "timeYear": 1273,
@@ -22,17 +22,19 @@
     "url": "https://nadine-breathwork.ehrax.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nadine-breathwork.ehrax.dev.ico",
     "slug": "nadine-breathwork",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 466,
+    "timeDay": 355,
     "timeWeek": 466,
     "timeMonth": 466,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-20": 0
+    }
   }
 ]
