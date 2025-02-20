@@ -22,19 +22,19 @@
     "url": "https://nadine-breathwork.ehrax.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nadine-breathwork.ehrax.dev.ico",
     "slug": "nadine-breathwork",
-    "status": "down",
-    "uptime": "98.39%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.39%",
-    "uptimeYear": "98.39%",
-    "time": 442,
-    "timeDay": 388,
-    "timeWeek": 442,
-    "timeMonth": 442,
-    "timeYear": 442,
+    "status": "up",
+    "uptime": "94.93%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "94.93%",
+    "time": 444,
+    "timeDay": 405,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-02-20": 26
+      "2025-02-20": 85
     }
   }
 ]
