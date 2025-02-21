@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1273,
-    "timeDay": 1573,
-    "timeWeek": 1273,
-    "timeMonth": 1273,
-    "timeYear": 1273,
+    "time": 1220,
+    "timeDay": 1059,
+    "timeWeek": 1220,
+    "timeMonth": 1220,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nadine-breathwork.ehrax.dev.ico",
     "slug": "nadine-breathwork",
     "status": "up",
-    "uptime": "94.93%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "94.93%",
-    "uptimeYear": "94.93%",
-    "time": 444,
-    "timeDay": 405,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "uptime": "95.14%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "95.14%",
+    "time": 439,
+    "timeDay": 419,
+    "timeWeek": 439,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-02-20": 85
+      "2025-02-20": 95
     }
   }
 ]
