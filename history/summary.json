@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/timopankau.com.ico",
     "slug": "timo-pankau",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 1207,
-    "timeDay": 1154,
-    "timeWeek": 1145,
-    "timeMonth": 1207,
-    "timeYear": 1207,
+    "uptime": "96.17%",
+    "uptimeDay": "21.94%",
+    "uptimeWeek": "88.85%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "96.17%",
+    "time": 1209,
+    "timeDay": 1355,
+    "timeWeek": 1125,
+    "timeMonth": 1209,
+    "timeYear": 1209,
     "dailyMinutesDown": {
-      "2025-03-11": 50
+      "2025-03-12": 24,
+      "2025-03-11": 1100
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 392,
-    "timeWeek": 547,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "time": 528,
+    "timeDay": 497,
+    "timeWeek": 523,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {}
   }
 ]
