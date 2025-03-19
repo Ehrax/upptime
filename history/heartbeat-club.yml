@@ -1,7 +1,7 @@
 url: https://heartbeatclub.ehrax.dev
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2025-03-18T23:03:31.723Z
+status: down
+code: 502
+responseTime: 3656
+lastUpdated: 2025-03-19T20:18:43.766Z
 startTime: 2025-02-21T10:02:03.573Z
 generator: Upptime <https://github.com/upptime/upptime>
