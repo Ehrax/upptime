@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/timopankau.com.ico",
     "slug": "timo-pankau",
     "status": "up",
-    "uptime": "75.60%",
+    "uptime": "76.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.81%",
-    "uptimeMonth": "75.60%",
-    "uptimeYear": "75.60%",
+    "uptimeWeek": "27.66%",
+    "uptimeMonth": "76.32%",
+    "uptimeYear": "76.32%",
     "time": 1180,
     "timeDay": 1348,
     "timeWeek": 1073,
-    "timeMonth": 1180,
+    "timeMonth": 1184,
     "timeYear": 1180,
     "dailyMinutesDown": {
       "2025-03-17": 1311,
@@ -30,17 +30,19 @@
     "url": "https://heartbeatclub.ehrax.dev",
     "icon": "https://icons.duckduckgo.com/ip3/heartbeatclub.ehrax.dev.ico",
     "slug": "heartbeat-club",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 443,
-    "timeWeek": 488,
-    "timeMonth": 518,
-    "timeYear": 518,
-    "dailyMinutesDown": {}
+    "time": 630,
+    "timeDay": 2050,
+    "timeWeek": 884,
+    "timeMonth": 630,
+    "timeYear": 630,
+    "dailyMinutesDown": {
+      "2025-03-19": 0
+    }
   }
 ]
